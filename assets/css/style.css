@@ -71,7 +71,7 @@ h5,
 h6 {
   font-family: "Poppins", sans-serif;
   font-weight: 600;
-  color: #32333c;
+  color: #0f2540;
   margin: 0px; }
 
 h1 {
@@ -476,7 +476,7 @@ p {
       .navigation .navbar .navbar-toggler .toggler-icon {
         width: 30px;
         height: 2px;
-        background-color: #32333c;
+        background-color: #0f2540;
         margin: 5px 0;
         display: block;
         position: relative;
@@ -824,7 +824,7 @@ p {
 .about-content .single-info .info-text {
   padding-left: 13px; }
   .about-content .single-info .info-text p span {
-    color: #32333c; }
+    color: #0f2540; }
 
 .about-skills .skill-item .skill-header {
   position: relative; }
@@ -836,7 +836,7 @@ p {
     top: 0;
     right: 0;
     font-size: 16px;
-    color: #32333c;
+    color: #0f2540;
     font-weight: 400;
     display: -webkit-flex;
     display: -moz-flex;
@@ -845,7 +845,7 @@ p {
     display: flex; }
     .about-skills .skill-item .skill-header .skill-percentage .count-box {
       font-size: 16px;
-      color: #32333c; }
+      color: #0f2540; }
 .about-skills .skill-item .skill-bar {
   margin-top: 15px; }
   .about-skills .skill-item .skill-bar .bar-inner {
@@ -902,7 +902,7 @@ p {
     .single-service .service-content .service-title a {
       font-size: 22px;
       font-weight: 600;
-      color: #32333c;
+      color: #0f2540;
       margin-bottom: 20px;
       -webkit-transition: all 0.3s ease-out 0s;
       -moz-transition: all 0.3s ease-out 0s;
@@ -1141,7 +1141,7 @@ p {
     padding-top: 30px; }
     .single-pricing .pricing-body .pricing-list ul li {
       line-height: 36px;
-      color: #32333c;
+      color: #0f2540;
       font-size: 16px; }
   .single-pricing .pricing-body .pricing-btn {
     padding-top: 25px;
@@ -1215,7 +1215,7 @@ p {
       -ms-transition: all 0.3s ease-out 0s;
       -o-transition: all 0.3s ease-out 0s;
       transition: all 0.3s ease-out 0s;
-      color: #32333c; }
+      color: #0f2540; }
       @media (max-width: 767px) {
         .single-blog .blog-content .blog-title a {
           font-size: 18px; } }
@@ -1486,7 +1486,7 @@ p.form-message.success, p.form-message.error {
   border-bottom: 1px solid #ddd; }
   .single-blog-post .blog-content .blog-title {
     font-size: 24px;
-    color: #32333c;
+    color: #0f2540;
     padding-bottom: 10px; }
     @media (max-width: 767px) {
       .single-blog-post .blog-content .blog-title {
@@ -1522,7 +1522,7 @@ p.form-message.success, p.form-message.error {
       .single-blog-post .blog-content .blockquote {
         padding: 20px 25px; } }
     .single-blog-post .blog-content .blockquote p {
-      color: #32333c;
+      color: #0f2540;
       font-weight: 500;
       position: relative; }
       .single-blog-post .blog-content .blockquote p .quote-left {
@@ -1533,7 +1533,7 @@ p.form-message.success, p.form-message.error {
         margin-left: 10px; }
 .single-blog-post .blog-tag-share .blog-tag span {
   text-transform: uppercase;
-  color: #32333c;
+  color: #0f2540;
   font-size: 16px;
   font-weight: 600; }
 .single-blog-post .blog-tag-share .blog-tag .tag li {
@@ -1555,7 +1555,7 @@ p.form-message.success, p.form-message.error {
       color: #754ef9; }
 .single-blog-post .blog-tag-share .blgo-share span {
   text-transform: uppercase;
-  color: #32333c;
+  color: #0f2540;
   font-size: 16px;
   font-weight: 600; }
 .single-blog-post .blog-tag-share .blgo-share .share li {
@@ -1679,7 +1679,7 @@ p.form-message.success, p.form-message.error {
       .blog-sidebar .sidebar-post .single-sidebar-post .post-content .post-title a {
         line-height: 22px;
         font-size: 15px;
-        color: #32333c;
+        color: #0f2540;
         -webkit-transition: all 0.3s ease-out 0s;
         -moz-transition: all 0.3s ease-out 0s;
         -ms-transition: all 0.3s ease-out 0s;
