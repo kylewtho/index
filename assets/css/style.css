@@ -14,12 +14,12 @@
     ===================
 
     1.COMMON
-	2.HEADER
+	  2.HEADER
     3.ABOUT
-    4.SERVICES
-    4.CALL TO ACTION
-    5.WORK
-    6.PRICING
+    4.SKILLS
+    5.EXPERIENCE
+    5.CALL TO ACTION
+    6.PROJECTS
     7.BLOG
     8.CONTACT
     9.FOOTER
@@ -869,7 +869,7 @@ p {
       width: 0; }
 
 /*===========================
-        4.SERVICES css 
+        4.SKILLS css 
 ===========================*/
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .services-area {
@@ -978,7 +978,7 @@ p {
         border-color: #fff; }
 
 /*===========================
-        5.WORK css 
+        5.PROJECTS css 
 ===========================*/
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .work-area {
@@ -1116,6 +1116,42 @@ p {
   .pricing-area {
     padding-top: 70px;
     padding-bottom: 80px; } }
+
+.experience-head {
+  font-size: 24px;
+  font-weight: 500;
+  padding-bottom: 15px; 
+  color: #1e90ff ;}
+.experience-title {
+  font-size: 18px;
+  font-weight: 500;
+  padding-bottom: 15px; }
+.experiences ul {
+  padding-top: 15px; }
+  .experiences ul li {
+    width: 50%;
+    float: left;
+    margin-top: 5px; }
+    @media only screen and (min-width: 992px) and (max-width: 1200px) {
+      .experiences ul li {
+        width: 100%;
+        float: none; } }
+    @media (max-width: 767px) {
+      .experiences ul li {
+        width: 100%;
+        float: none; } }
+    @media only screen and (min-width: 576px) and (max-width: 767px) {
+      .experiences ul li {
+        width: 50%;
+        float: left; } }
+.experiences .experience-location i {
+  font-size: 16px;
+  color: #1e90ff; }
+.experiences .experience-location {
+  padding-left: 0px; 
+  color: #1e90ff; }
+  .experiences .experience-location p span {
+    color: #32333c; }
 
 .single-pricing .pricing-package {
   background-color: #1e90ff;
