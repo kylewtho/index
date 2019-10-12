@@ -698,14 +698,14 @@ p {
     padding-bottom: 15px; }
     @media (max-width: 767px) {
       .header-content-right .sub-title {
-        font-size: 24px; } }
+        font-size: 32px; } }
   .header-content-right .title {
     font-size: 100px;
     text-transform: uppercase;
     padding-bottom: 15px; }
     @media (max-width: 767px) {
       .header-content-right .title {
-        font-size: 38px; } }
+        font-size: 46px; } }
   .header-content-right p {
     padding-bottom: 40px; }
 
@@ -1153,6 +1153,7 @@ p {
   .experiences .experience-location p span {
     color: #32333c; }
 
+
 .single-pricing .pricing-package {
   background-color: #1e90ff;
   border-top-left-radius: 5px;
@@ -1417,7 +1418,8 @@ p.form-message.success, p.form-message.error {
 .footer-copyright {
   background-color: #1c2940; }
   .footer-copyright .copyright-text p {
-    color: #fff; }
+    color: #888888; 
+    font-size: 12px; }
 
 .back-to-top {
   font-size: 20px;
