@@ -1126,8 +1126,9 @@ p {
   font-size: 18px;
   font-weight: 500; }
 .experience-name {
-  color: #32333c;
-  padding-bottom: 10px; }
+}
+.experience-details {
+}
 .experience-period {
   padding-bottom: 15px; }
 .experiences ul {
@@ -1149,11 +1150,11 @@ p {
         width: 50%;
         float: left; } }
 .experiences .experience-location i {
-  font-size: 16px;
+  font-size: 14px;
   color: #1e90ff; 
   padding-top: 10px; }
 .experiences .experience-location {
-  font-size: 16px;
+  font-size: 14px;
   padding-left: 0px; 
   color: #1e90ff; }
   .experiences .experience-location p span {
