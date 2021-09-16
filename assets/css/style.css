@@ -881,9 +881,9 @@ p {
     padding-bottom: 80px; } }
 
 .ability-title {
-  float: left; }
+  float: none; }
 .ability-score {
-  float: right; }
+  float: none; }
 .word-s {
   font-size: : 6px; }
 
