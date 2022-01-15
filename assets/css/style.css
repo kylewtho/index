@@ -1130,16 +1130,19 @@ p {
   font-size: 22px;
   font-weight: 500;
   padding-bottom: 15px; 
-  color: #1e90ff ;}
+  color: #1e90ff ; 
+  text-align: center;}
 .experience-title {
   font-size: 18px;
-  font-weight: 500; }
+  font-weight: 500; 
+  text-align: right;}
 .experience-name {
   color: #32333c ;}
 .experience-details {
 }
 .experience-period {
-  padding-bottom: 5px; }
+  padding-bottom: 5px; 
+  text-align: right; }
 .experiences ul {
   padding-top: 15px; }
   .experiences ul li {
