@@ -1115,34 +1115,52 @@ p {
       opacity: 1; }
 
 /*===========================
-       6.PRICING css 
+       6.EXPERIENCE css 
 ===========================*/
+
+.experience-title {
+    font-size: 18px;
+    font-weight: 500; 
+    text-align: right; } 
+.experience-period {
+    padding-bottom: 5px; 
+    text-align: right; } 
+
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .pricing-area {
     padding-top: 90px;
-    padding-bottom: 100px; } }
+    padding-bottom: 100px; } 
+  .experience-title {
+    font-size: 18px;
+    font-weight: 500; 
+    text-align: right; } 
+  .experience-period {
+    padding-bottom: 5px; 
+    text-align: right; } }
+
 @media (max-width: 767px) {
   .pricing-area {
     padding-top: 70px;
-    padding-bottom: 80px; } }
+    padding-bottom: 80px; } 
+  .experience-title {
+    font-size: 18px;
+    font-weight: 500; 
+    text-align: left; } 
+  .experience-period {
+    padding-bottom: 5px; 
+    text-align: left; }}
 
 .experience-head {
   font-size: 22px;
   font-weight: 500;
+  padding-top: 15px;
   padding-bottom: 15px; 
   color: #1e90ff ; 
   text-align: center;}
-.experience-title {
-  font-size: 18px;
-  font-weight: 500; 
-  text-align: right;}
 .experience-name {
   color: #32333c ;}
 .experience-details {
 }
-.experience-period {
-  padding-bottom: 5px; 
-  text-align: right; }
 .experiences ul {
   padding-top: 15px; }
   .experiences ul li {
